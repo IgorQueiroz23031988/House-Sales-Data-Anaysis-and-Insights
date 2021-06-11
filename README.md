@@ -68,7 +68,8 @@ Furthermore, some assumptions were made to identify the profit range by selling 
 
 As the company’s CEO wants answer for two different questions, the solution strategy is divided into 2 parts:
 
-First part: Which houses to buy?
+
+* First part: Which houses to buy?
  
 1º - Collect data from kaggle’s website.
  
@@ -80,7 +81,8 @@ First part: Which houses to buy?
  
 5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house. 
  
-Second part: When to sell the houses and for how much?
+ 
+* Second part: When to sell the houses and for how much?
  
 1º - After the company buys the houses, the data is grouped by region and seasons.
  
@@ -104,7 +106,6 @@ If the buy price is lower than median price plus season and recommendation to bu
  
 6º - It is specified the total profit by buying and selling houses.
  
-
 ## 5. Top 10 Data Insights.
 
 Hypothesis 01: Houses which has water view are 20% more expensive, in general.
