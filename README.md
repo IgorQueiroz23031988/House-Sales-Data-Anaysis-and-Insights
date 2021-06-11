@@ -28,6 +28,7 @@ The data collected to put this project into operation is found at website: <http
  Dataset list:
  
 Attributes |	Meaning
+---------- | ----------
 id	Unique | ID for each house sold
 date |	Date of the home sale
 price |	Price of each home sold
