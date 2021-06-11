@@ -90,15 +90,15 @@ __2º__ - Inside each region and seasons, it is calculated the median price.
  
 __3º__ - If the buy price is higher than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 10 %. 
  
-   - If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
+   If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
  
-   - If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
+   If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
  
-   - If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
+   If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
  
-   - If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
+   If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
  
-   - If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
+   If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
  
 __4º__ - It is specified the best moment to sell based on the profit by season.
  
@@ -109,26 +109,32 @@ __6º__ - It is specified the total profit by buying and selling houses.
 ## 5. Top 10 Data Insights.
 
 __Hypothesis 01:__ Houses which has water view are 20% more expensive, in general.
+
 __False:__ Houses with water view are 212.57668803323867 percent more expensive.
 
 
 __Hypothesis 02:__ Houses that was built before 1955 are 50% cheaper, in general.
+
 __False:__ Houses that was built before 1955 are -0.7757205525248732 percent cheaper.
 
 
 __Hypothesis 03:__ Houses without basement are 40% bigger them house with basement, related to total area (sqft_lot). 
+
 __False:__ Houses without basement are 22.483151526642544 percent bigger them houses with basement.
 
 
 __Hypothesis 04:__ The growth of house prices YoY (Year over Year) (May 2014 compared to May 2015) is 10%, in general. 
+
 __False:__ The total houses price YoY (Year over Year) suffered a decrease of -62.79177358882806 percent.
 
 
 __Hypothesis 05:__ Houses with 3 bathrooms have a growth MoM (month over Month) of 15%.
+
 __False:__ The total houses price MoM (month over Month) suffered a decrease of -9.953899240174858 percent.
 
 
 __Hypothesis 06:__ Houses with number of bedrooms above 8 have a number of bathrooms 40% higher than houses with number of bedrooms between 5 and 8, and 94% higher than houses with number of bedrooms between 1 and, 4 on average.
+
 __True:__ Houses with number of bedrooms above 8 have a number of bathrooms 39.9514563106796 percent higher than houses with number of bedrooms between 5 and 8, and 94.48676155875182 higher than houses with number of bedrooms between 1 and 4.
 
 __Hypothesis 07:__ Houses with 7 bedrooms has the total area (sqft_lot) bigger between 132 to 320 percent than houses with 8 to 11 bedrooms, on average.
@@ -136,6 +142,7 @@ __True:__ Houses with 7 bedrooms has the total area (sqft_lot) bigger between 13
 
 
 __Hypothesis 08:__ Renovated Houses have living rooms 12% bigger than houses not renovated, on average.
+
 __True:__ Renovated Houses have living rooms 12.132344286788795 percent bigger than houses not renovated, on average.
 
 ## 6. Financial Results.
