@@ -33,10 +33,7 @@ id         |	Unique ID for each house sold
 date       |	Date of the home sale
 price      |	Price of each home sold
 bedrooms   |	Number of bedrooms
-bathrooms	 | Number of bathrooms,where:  0.25 bathroom is a hallway shower or a freshen-up room with a single sink and mirror;
-           |                                .5 accounts for a bathroom with a toilet but no shower;
-           |                                .75 bath is a bathroom that contains one sink, one toilet and a shower or a bath; 
-           |                                 and 1 is a full bath contains at least one sink, one toilet, a shower and a bath
+bathrooms	 | Number of bathrooms,where:  0.25 bathroom is a hallway shower or a freshen-up room with a single sink and mirror; .5 accounts for a bathroom with a toilet but no shower; .75 bath is a bathroom that contains one sink, one toilet and a shower or a bath; and 1 is a full bath contains at least one sink, one toilet, a shower and a bath
 sqft_living |	Square footage of the apartments interior living space
 sqft_lot |	Square footage of the land space
 floors |	Number of floors. The .5 floor is a partial floor added to allow for more space.
