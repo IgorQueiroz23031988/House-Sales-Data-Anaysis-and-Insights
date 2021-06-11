@@ -81,44 +81,64 @@ First part: Which houses to buy?
  
 5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house. 
 
+ 
 Second part: When to sell the houses and for how much?
  
 1º - After the company buys the houses, the data is grouped by region and seasons.
+ 
 2º - Inside each region and seasons, it is calculated the median price.   
+ 
 3º - If the buy price is higher than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 10 %. 
+ 
 If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
+ 
 If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
+ 
 If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
+ 
 If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
+ 
 If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
+ 
 4º - It is specified the best moment to sell based on the profit by season.
+ 
 5º - It is specified the best moment to sell based on the profit by season and recommendation to buy in general and individual houses.
+ 
 6º - It is specified the total profit by buying and selling houses.
+ 
 
 5. Top 10 Data Insights.<h5>
 
 Hypothesis 01: Houses which has water view are 20% more expensive, in general.
+ 
 False: Houses with water view are 212.57668803323867 percent more expensive.
 
 Hypothesis 02: Houses that was built before 1955 are 50% cheaper, in general.
+ 
 False: Houses that was built before 1955 are -0.7757205525248732 percent cheaper.
 
 Hypothesis 03: Houses without basement are 40% bigger them house with basement, related to total area (sqft_lot).
+ 
 False: Houses without basement are 22.483151526642544 percent bigger them houses with basement.
 
 Hypothesis 04: The growth of house prices YoY (Year over Year) (May 2014 compared to May 2015) is 10%, in general.
+ 
 False: The total houses price YoY (Year over Year) suffered a decrease of -62.79177358882806 percent.
 
 Hypothesis 05: Houses with 3 bathrooms have a growth MoM (month over Month) of 15%.
+ 
 False: The total houses price MoM (month over Month) suffered a decrease of -9.953899240174858 percent.
 
 Hypothesis 06: Houses with number of bedrooms above 8 have a number of bathrooms 40% higher than houses with number of bedrooms between 5 and 8, and 94% higher than houses with number of bedrooms between 1 and, 4 on average.
+ 
 True: Houses with number of bedrooms above 8 have a number of bathrooms 39.9514563106796 percent higher than houses with number of bedrooms between 5 and 8, and 94.48676155875182 higher than houses with number of bedrooms between 1 and 4.
 
 Hypothesis 07: Houses with 7 bedrooms has the total area (sqft_lot) bigger between 132 to 320 percent than houses with 8 to 11 bedrooms, on average.
+ 
 True: Houses with 7 bedrooms has the total area (sqft_lot) bigger between 132.29431644290653 and 320.17243208828523 percent than houses with 8 to 11 bedrooms.
 
 Hypothesis 08: Renovated Houses have living rooms 12% bigger than houses not renovated, on average.
+ 
 True: Renovated Houses have living rooms 12.132344286788795 percent bigger than houses not renovated, on average.
 
 6. Financial Results.<h6>
