@@ -21,8 +21,10 @@ The tools used for this project are: Python 3.8, Pycharm, Jupyter Notebook, Stre
 
 2. Data Understanding.<h2>
 
-The data collected to put this project into operation is found at website: https://www.kaggle.com/harlfoxem/housesalesprediction.
-Dataset list:
+The data collected to put this project into operation is found at website: <https://www.kaggle.com/harlfoxem/housesalesprediction>.
+
+ Dataset list:
+ 
 Attributes	Meaning
 id	Unique ID for each house sold
 date	Date of the home sale
@@ -52,19 +54,23 @@ sqft_lot15	The square footage of the land lots of the nearest 15 neighbors
 
 3. Business Assumptions.<h3>
 
-After carefully research, some assumptions are taken based on several information obtained at website https://www.kaggle.com/harlfoxem/housesalesprediction/discussion.
+After carefully research, some assumptions are taken based on several information obtained at website <https://www.kaggle.com/harlfoxem/housesalesprediction/discussion>.
+ 
 Those assumptions lead to identify possible outliers’ existent on dataset. Such as:
-•	Any house which contains no bathrooms or bedrooms is considered outlier, therefore it is excluded.
-•	Any house which the number of bedrooms is higher than 11 is considered outlier, therefore it is excluded.
+ 
+*	Any house which contains no bathrooms or bedrooms is considered outlier, therefore it is excluded.
+*	Any house which the number of bedrooms is higher than 11 is considered outlier, therefore it is excluded.
 
 Furthermore, some assumptions were made to identify the profit range by selling houses.
-•	According the website: https://www.prnewswire.com/news-releases/average-us-home-seller-profits-hit-65-500-in-2019--another-new-high-300991828.html, the minimal profit made by selling houses In US is 10%, the maximum is 45%. This profit range flouts due the houses characteristics, such as: location, size, number of bedrooms and others. 
+ 
+*	According the website: <https://www.prnewswire.com/news-releases/average-us-home-seller-profits-hit-65-500-in-2019--another-new-high-300991828.html>, the minimal profit made by selling houses In US is 10%, the maximum is 45%. This profit range flouts due the houses characteristics, such as: location, size, number of bedrooms and others. 
 
 4. Solution Strategy.<h4>
 
 As the company’s CEO wants answer for two different questions, the solution strategy is divided into 2 parts:
 
 First part: Which houses to buy?
+ 
 1º - Collect data from kaggle’s website.
 2º - Group them by region (zipcode), due this attribute is extremely influential on the house’s price.   
 3º - Find the house’s price median by region.
@@ -72,6 +78,7 @@ First part: Which houses to buy?
 5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house. 
 
 Second part: When to sell the houses and for how much?
+ 
 1º - After the company buys the houses, the data is grouped by region and seasons.
 2º - Inside each region and seasons, it is calculated the median price.   
 3º - If the buy price is higher than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 10 %. 
