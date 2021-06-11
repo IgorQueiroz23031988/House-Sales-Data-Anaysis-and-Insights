@@ -90,15 +90,15 @@ __2º__ - Inside each region and seasons, it is calculated the median price.
  
 __3º__ - If the buy price is higher than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 10 %. 
  
-         If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
+   If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
  
-         If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
+   If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
  
-         If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
+   If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
  
-         If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
+   If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
  
-         If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
+   If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
  
 __4º__ - It is specified the best moment to sell based on the profit by season.
  
