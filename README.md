@@ -1,10 +1,12 @@
 # House's-Buy-and-Sales-Data-AnaLysis-and-Insights
 Data Analysis to create insights informing which houses to buy, create prices to sell and inform when to sell them.
 
-1. Business Understanding/Problem.<h1>
+**1. Business Understanding/Problem.**<h1>
 
 House Rocket is a company which main porpoise is obtains profit buying and selling houses localized at King County, state of Seattle, USA.
-The object of this project is providing answer of the main questions made by the company’s CEO, which are:
+
+ The object of this project is providing answer of the main questions made by the company’s CEO, which are:
+ 
 •	Which houses the company should buy, and for which price?
 •	Once the houses have been bought, what is the best moment to sell them, and for how much?
 The answer for those questions is presented in two different methods:
