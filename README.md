@@ -69,7 +69,7 @@ Furthermore, some assumptions were made to identify the profit range by selling 
 As the company’s CEO wants answer for two different questions, the solution strategy is divided into 2 parts:
 
 
-* First part: Which houses to buy?
+* __First part:__ Which houses to buy?
  
 1º - Collect data from kaggle’s website.
  
@@ -82,29 +82,29 @@ As the company’s CEO wants answer for two different questions, the solution st
 5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house. 
  
  
-* Second part: When to sell the houses and for how much?
+* __Second part:__ When to sell the houses and for how much?
  
-1º - After the company buys the houses, the data is grouped by region and seasons.
+__1º__ - After the company buys the houses, the data is grouped by region and seasons.
  
-2º - Inside each region and seasons, it is calculated the median price.   
+__2º__ - Inside each region and seasons, it is calculated the median price.   
  
-3º - If the buy price is higher than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 10 %. 
+__3º__ - If the buy price is higher than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 10 %. 
  
-If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
+         If the buy price is higher than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 12.5 %.
  
-If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
+         If the buy price is higher than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 15 %.
  
-If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
+         If the buy price is lower than median price plus season and recommendation to buy is regular, than the sell price will be equal the buy price plus 30 %.
  
-If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
+         If the buy price is lower than median price plus season and recommendation to buy is high, than the sell price will be equal the buy price plus 37.5 %.
  
-If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
+         If the buy price is lower than median price plus season and recommendation to buy is very high, than the sell price will be equal the buy price plus 45 %.
  
-4º - It is specified the best moment to sell based on the profit by season.
+__4º__ - It is specified the best moment to sell based on the profit by season.
  
-5º - It is specified the best moment to sell based on the profit by season and recommendation to buy in general and individual houses.
+__5º__ - It is specified the best moment to sell based on the profit by season and recommendation to buy in general and individual houses.
  
-6º - It is specified the total profit by buying and selling houses.
+__6º__ - It is specified the total profit by buying and selling houses.
  
 ## 5. Top 10 Data Insights.
 
