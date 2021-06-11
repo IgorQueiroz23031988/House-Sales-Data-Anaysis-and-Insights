@@ -5,7 +5,7 @@ Link for the streamlit app: <https://house-rocket-insight-project.herokuapp.com/
 
 !(https://github.com/IgorQueiroz23031988/House-Sales-Data-Anaysis-and-Insights/blob/main/HOUSE%E2%80%99S%20BUY%20AND%20SALES%20DATA%20ANALYSIS%20AND%20INSIGHTS.png)
 
-##1. Business Understanding/Problem.<h1>
+## 1. Business Understanding/Problem.<h1>
 
 House Rocket is a company which main porpoise is obtains profit buying and selling houses localized at King County, state of Seattle, USA.
 
@@ -21,7 +21,7 @@ House Rocket is a company which main porpoise is obtains profit buying and selli
  
 The tools used for this project are: Python 3.8, Pycharm, Jupyter Notebook, Streamlit and Heroku.
 
-##2. Data Understanding.<h2>
+## 2. Data Understanding.<h2>
 
 The data collected to put this project into operation is found at website: <https://www.kaggle.com/harlfoxem/housesalesprediction>.
 
@@ -54,7 +54,7 @@ long	Longitude
 sqft_livining15	The square footage of interior housing living space for the nearest 15 neighbors
 sqft_lot15	The square footage of the land lots of the nearest 15 neighbors
 
-##3. Business Assumptions.<h3>
+## 3. Business Assumptions.<h3>
 
 After carefully research, some assumptions are taken based on several information obtained at website <https://www.kaggle.com/harlfoxem/housesalesprediction/discussion>.
  
@@ -67,7 +67,7 @@ Furthermore, some assumptions were made to identify the profit range by selling 
  
 *	According the website: <https://www.prnewswire.com/news-releases/average-us-home-seller-profits-hit-65-500-in-2019--another-new-high-300991828.html>, the minimal profit made by selling houses In US is 10%, the maximum is 45%. This profit range flouts due the houses characteristics, such as: location, size, number of bedrooms and others. 
 
-##4. Solution Strategy.<h4>
+## 4. Solution Strategy.<h4>
 
 As the company’s CEO wants answer for two different questions, the solution strategy is divided into 2 parts:
 
@@ -108,7 +108,7 @@ If the buy price is lower than median price plus season and recommendation to bu
 6º - It is specified the total profit by buying and selling houses.
  
 
-##5. Top 10 Data Insights.<h5>
+## 5. Top 10 Data Insights.<h5>
 
 Hypothesis 01: Houses which has water view are 20% more expensive, in general.
  
@@ -142,15 +142,15 @@ Hypothesis 08: Renovated Houses have living rooms 12% bigger than houses not ren
  
 True: Renovated Houses have living rooms 12.132344286788795 percent bigger than houses not renovated, on average.
 
-##6. Financial Results.<h6>
+## 6. Financial Results.<h6>
 
  House Rocket Company would have a profit of almost 19 percent, which are more than $771 million, if applies this data analytics method.
 
-##7. Conclusion.<h7>
+## 7. Conclusion.<h7>
 
 In conclusion, it is possible to identify that the application of data analytics project at dataset from House Rocket Company was very successful, providing a huge profit opportunity based on which houses to buy and when to sell.
 
-##8. Next Steps.<h8>
+## 8. Next Steps.<h8>
 
 Other project that can be made with this dataset is the exploration data analyses, which identify the best’s attributes in order to apply machine learning algorithms, with the objective to predict the price of futures houses to buy.
 
