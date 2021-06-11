@@ -72,9 +72,13 @@ As the company’s CEO wants answer for two different questions, the solution st
 First part: Which houses to buy?
  
 1º - Collect data from kaggle’s website.
+ 
 2º - Group them by region (zipcode), due this attribute is extremely influential on the house’s price.   
+ 
 3º - Find the house’s price median by region.
+ 
 4º - Recommend that the houses with prices inferior to the median value should be bought, and the condition is minimal 3.  
+ 
 5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house. 
 
 Second part: When to sell the houses and for how much?
