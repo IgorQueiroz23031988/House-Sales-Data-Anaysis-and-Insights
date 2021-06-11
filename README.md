@@ -3,7 +3,7 @@ Data Analysis to create insights informing which houses to buy, create prices to
 
 Link for the streamlit app: <https://house-rocket-insight-project.herokuapp.com/>
 
-1. Business Understanding/Problem.<h1>
+__1. Business Understanding/Problem.__<h1>
 
 House Rocket is a company which main porpoise is obtains profit buying and selling houses localized at King County, state of Seattle, USA.
 
@@ -16,7 +16,7 @@ The answer for those questions is presented in two different methods:
 •	A website created by the data analyst showing a table of the most interested houses to buy and other table with information about house prices to sell and when to them. Also a collection of hypotheses and a dashboard is presented in order to auxiliary the CEO decisions.
 The tools used for this project are: Python 3.8, Pycharm, Jupyter Notebook, Streamlit and Heroku.
 
-2. Data Understanding.<h2>
+__2. Data Understanding.__<h2>
 
 The data collected to put this project into operation is found at website: https://www.kaggle.com/harlfoxem/housesalesprediction.
 Dataset list:
