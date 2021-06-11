@@ -82,6 +82,8 @@ First part: Which houses to buy?
 5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house. 
 
  
+ 
+ 
 Second part: When to sell the houses and for how much?
  
 1º - After the company buys the houses, the data is grouped by region and seasons.
