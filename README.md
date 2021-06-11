@@ -66,7 +66,7 @@ Furthermore, some assumptions were made to identify the profit range by selling 
 
 ## 4. Solution Strategy.
 
-As the company’s CEO wants answer for two different questions, the solution strategy is divided into 2 parts:
+As the company’s CEO wants answer for two different questions, the solution strategy is divided into 2 parts:<br/><br/>
 
 
 * __First part:__ Which houses to buy?
@@ -79,7 +79,7 @@ As the company’s CEO wants answer for two different questions, the solution st
  
 4º - Recommend that the houses with prices inferior to the median value should be bought, and the condition is minimal 3.  
  
-5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house. 
+5º - Filter those houses, that should be bought, by size, number of floors, number of bedrooms, and number of bathrooms, in order to identify the level of recommendation of each house.<br/><br/>
  
  
 * __Second part:__ When to sell the houses and for how much?
