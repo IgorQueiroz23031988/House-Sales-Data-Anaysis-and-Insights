@@ -106,7 +106,7 @@ __5º__ - It is specified the best moment to sell based on the profit by season 
  
 __6º__ - It is specified the total profit by buying and selling houses.
  
-## 5. Top 10 Data Insights.
+## 5. Top 08 Data Insights.
 
 __Hypothesis 01:__ Houses which has water view are 20% more expensive, in general.
 
