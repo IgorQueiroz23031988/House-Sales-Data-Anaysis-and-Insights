@@ -3,7 +3,7 @@ Data Analysis to create insights informing which houses to buy, create prices to
 
 Link for the streamlit app: <https://house-rocket-insight-project.herokuapp.com/>
 
-!(https://github.com/IgorQueiroz23031988/House-Sales-Data-Anaysis-and-Insights/blob/main/HOUSE%E2%80%99S%20BUY%20AND%20SALES%20DATA%20ANALYSIS%20AND%20INSIGHTS.png)
+![alt text](https://github.com/IgorQueiroz23031988/House-Sales-Data-Anaysis-and-Insights/blob/main/HOUSE%E2%80%99S%20BUY%20AND%20SALES%20DATA%20ANALYSIS%20AND%20INSIGHTS.png)
 
 ## 1. Business Understanding/Problem.
 
