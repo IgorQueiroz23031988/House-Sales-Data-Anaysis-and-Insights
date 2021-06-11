@@ -27,32 +27,32 @@ The data collected to put this project into operation is found at website: <http
 
  Dataset list:
  
-Attributes	Meaning
-id	Unique ID for each house sold
-date	Date of the home sale
-price	Price of each home sold
-bedrooms	Number of bedrooms
+Attributes |	Meaning
+id	Unique | ID for each house sold
+date |	Date of the home sale
+price |	Price of each home sold
+bedrooms |	Number of bedrooms
 bathrooms	Number of bathrooms,
  where:  0.25 bathroom is a hallway shower or a freshen-up room with a single sink and mirror;
  .5 accounts for a bathroom with a toilet but no shower;
  .75 bath is a bathroom that contains one sink, one toilet and a shower or a bath; 
 and 1 is a full bath contains at least one sink, one toilet, a shower and a bath
-sqft_living	Square footage of the apartments interior living space
-sqft_lot	Square footage of the land space
-floors	Number of floors. The .5 floor is a partial floor added to allow for more space.
-waterfront	A dummy variable for whether the apartment was overlooking the waterfront or not, where 1 = the house has water view; 0 = the house does not have water view. 
-view	An index from 0 to 4 of how good the view of the property was
-condition	An index from 1 to 5 on the condition of the apartment
-grade	An index from 1 to 13, where 1-3 falls short of building construction and design, 7 has an average level of construction and design, and 11-13 have a high quality level of construction and design
-sqft_above	The square footage of the interior housing space that is above ground level
-sqft_basement	The square footage of the interior housing space that is below ground level
-yr_built	 The year the house was initially built
-yr_renovated	The year of the house’s last renovation
-zipcode	What zipcode area the house is in
-lat	Latitude
-long	Longitude
-sqft_livining15	The square footage of interior housing living space for the nearest 15 neighbors
-sqft_lot15	The square footage of the land lots of the nearest 15 neighbors
+sqft_living |	Square footage of the apartments interior living space
+sqft_lot |	Square footage of the land space
+floors |	Number of floors. The .5 floor is a partial floor added to allow for more space.
+waterfront |	A dummy variable for whether the apartment was overlooking the waterfront or not, where 1 = the house has water view; 0 = the house does not have water view. 
+view |	An index from 0 to 4 of how good the view of the property was
+condition |	An index from 1 to 5 on the condition of the apartment
+grade |	An index from 1 to 13, where 1-3 falls short of building construction and design, 7 has an average level of construction and design, and 11-13 have a high quality level of construction and design
+sqft_above |	The square footage of the interior housing space that is above ground level
+sqft_basement |	The square footage of the interior housing space that is below ground level
+yr_built |	 The year the house was initially built
+yr_renovated |	The year of the house’s last renovation
+zipcode |	What zipcode area the house is in
+lat |	Latitude
+long |	Longitude
+sqft_livining15 |	The square footage of interior housing living space for the nearest 15 neighbors
+sqft_lot15 |	The square footage of the land lots of the nearest 15 neighbors
 
 ## 3. Business Assumptions.
 
