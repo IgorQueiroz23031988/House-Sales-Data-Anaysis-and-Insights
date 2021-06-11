@@ -110,12 +110,12 @@ __6º__ - It is specified the total profit by buying and selling houses.
 
 __Hypothesis 01:__ Houses which has water view are 20% more expensive, in general.
 
-__False:__ Houses with water view are 212.57668803323867 percent more expensive.'\n\n'
+__False:__ Houses with water view are 212.57668803323867 percent more expensive.<'\n\n'>
 
 
 __Hypothesis 02:__ Houses that was built before 1955 are 50% cheaper, in general.
 
-__False:__ Houses that was built before 1955 are -0.7757205525248732 percent cheaper.'\n\n'
+__False:__ Houses that was built before 1955 are -0.7757205525248732 percent cheaper.<'\n\n'>
 
 
 __Hypothesis 03:__ Houses without basement are 40% bigger them house with basement, related to total area (sqft_lot). 
