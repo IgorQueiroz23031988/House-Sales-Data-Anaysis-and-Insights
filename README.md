@@ -120,7 +120,7 @@ __False:__ Houses that was built before 1955 are -0.7757205525248732 percent che
 
 __Hypothesis 03:__ Houses without basement are 40% bigger them house with basement, related to total area (sqft_lot). 
 
-__False:__ Houses without basement are 22.483151526642544 percent bigger them houses with basement.'\n\n'
+__False:__ Houses without basement are 22.483151526642544 percent bigger them houses with basement.<'\n\n'>
 
 
 __Hypothesis 04:__ The growth of house prices YoY (Year over Year) (May 2014 compared to May 2015) is 10%, in general. 
