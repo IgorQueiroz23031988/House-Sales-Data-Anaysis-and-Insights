@@ -3,6 +3,8 @@ Data Analysis to create insights informing which houses to buy, create prices to
 
 Link for the streamlit app: <https://house-rocket-insight-project.herokuapp.com/>
 
+![HOUSE’S BUY AND SALES DATA ANALYSIS AND INSIGHTS.png]
+
 1. Business Understanding/Problem.<h1>
 
 House Rocket is a company which main porpoise is obtains profit buying and selling houses localized at King County, state of Seattle, USA.
